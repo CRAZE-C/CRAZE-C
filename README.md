@@ -1,27 +1,23 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/528a7f16-dbfc-4653-9d4d-62fa53cf4bc2" alt="GIF description">
-</div>
+<img src="https://github.com/user-attachments/assets/528a7f16-dbfc-4653-9d4d-62fa53cf4bc2" alt="GIF description">
 
-<h1 align="center">Hello 👋😁, I'm Dharan Raj</h1>
-<h3 align="center">A passionate full-stack developer, currently pursuing Electronics and Communication Engineering</h3>
+<h1>Hello 👋😁, I'm Dharan Raj</h1>
+<h3>A passionate full-stack developer, currently pursuing Electronics and Communication Engineering</h3>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=craze-c&label=Profile%20views&color=0e75b6&style=flat" alt="craze-c" />
 </p>
 
-<div align="center">
-  <p>🔭 I’m currently working on <a href="https://github.com/CRAZE-C/DEVCOMMUNITY">DEV COMMUNITY</a></p>
-  <p>🌱 I’m currently learning <b>Node.js, Express.js, MongoDB</b></p>
-  <p>📫 How to reach me: <b>cannydharanraj@gmail.com</b></p>
-</div>
+- 🔭 I’m currently working on [DEV COMMUNITY](https://github.com/CRAZE-C/DEVCOMMUNITY)  
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**  
+- 📫 How to reach me: **cannydharanraj@gmail.com**
 
-<h3 align="center">⚡ Fun Fact</h3>
-<p align="center">Knows every error has a solution—it just takes the right search terms to unlock the magic.</p>
+<h3>⚡ Fun Fact</h3>
+<p>Knows every error has a solution—it just takes the right search terms to unlock the magic.</p>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3>Connect with me:</h3>
+<p>
   <a href="https://linkedin.com/in/dharan raj c" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/dharan raj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
   <a href="https://medium.com/@dharanraj1010" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
@@ -32,8 +28,8 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h3>Languages and Tools:</h3>
+<p> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
@@ -54,10 +50,10 @@
 
 ---
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=craze-c&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=craze-c&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
